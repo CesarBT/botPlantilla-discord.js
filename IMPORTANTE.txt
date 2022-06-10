@@ -1,0 +1,7 @@
+debes tener node.js v16.6.0
+
+antes de ejecutar el bot en la consola usa en la consola este comando: npm i discord.js fs path
+luego coloca el token y prefix de tu bot en el archivo config.json
+
+luego en el index.js usa node . en la consola
+si usas un host como replit solo ejecutalo
